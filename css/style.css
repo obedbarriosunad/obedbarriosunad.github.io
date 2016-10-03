@@ -8,10 +8,10 @@ font-family: 'Pavanam', sans-serif;
 	margin: auto;
 	position:relative;
 	
-}
+}|
 
 body{
-	background-image: url (..C:\Users\EDGAR\Desktop\UNAD\CUARTO SEMESTRE\Diseños de Sitios Web\obedbarriosunad.github.io\img\fondo.jpeg) ;
+	background-image: url (..img\fondo.jpeg) ;
 	background-repeat: no-repeat;
 	background-size: cover;
 	position: relative;
